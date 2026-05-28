@@ -1,0 +1,23 @@
+# XFOIL binaries (users should download these themselves)
+xfoil.exe
+pplot.exe
+pxplot.exe
+Xfoil699src.zip
+
+# XFOIL runtime output
+polar.dat
+xfoil_input.txt
+xfoil_output.txt
+
+# Optimizer output
+iteration_log.txt
+optimized_values.txt
+testing_airfoil.txt
+Save_Airfoil.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
