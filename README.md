@@ -62,7 +62,7 @@ pip install numpy scipy
 ## Usage
 
 ```bash
-python optimization.py
+python main.py
 ```
 
 The optimizer will run and produce:
@@ -76,7 +76,7 @@ The optimizer will run and produce:
 ## Project Structure
 
 ```
-├── optimization.py      # Main optimization script
+├── main.py              # Main optimization script
 ├── xfoil.exe            # XFOIL solver (not tracked — download separately)
 ├── .gitignore
 └── README.md
