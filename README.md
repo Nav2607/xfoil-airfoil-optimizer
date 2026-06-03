@@ -83,5 +83,6 @@ The optimizer will run and produce:
 ```
 
 ## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
 
-This project uses [XFOIL](https://web.mit.edu/drela/Public/web/xfoil/) by Mark Drela and Harold Youngren (MIT).
+*Note: This optimizer integrates [XFOIL](https://web.mit.edu/drela/Public/web/xfoil/), which was developed by Mark Drela and Harold Youngren (MIT).*
